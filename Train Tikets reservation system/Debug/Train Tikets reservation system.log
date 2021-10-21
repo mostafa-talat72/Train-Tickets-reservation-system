@@ -1,0 +1,5 @@
+﻿  Train Tikets reservation system.cpp
+F:\My Application\c++\Train Tikets reservation system\Train Tikets reservation system\Train Tikets reservation system.cpp(243,17): warning C4101: 'seat': unreferenced local variable
+F:\My Application\c++\Train Tikets reservation system\Train Tikets reservation system\Train Tikets reservation system.cpp(317,17): warning C4101: 'seat': unreferenced local variable
+F:\My Application\c++\Train Tikets reservation system\Train Tikets reservation system\Train Tikets reservation system.cpp(361,17): warning C4101: 'seat': unreferenced local variable
+  Train Tikets reservation system.vcxproj -> F:\My Application\c++\Train Tikets reservation system\Debug\Train Tikets reservation system.exe
